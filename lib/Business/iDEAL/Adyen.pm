@@ -9,7 +9,7 @@ use LWP::UserAgent;
 use URI;
 use XML::Simple;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =pod
 
